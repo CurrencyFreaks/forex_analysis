@@ -7,7 +7,7 @@ import mplfinance as mpf
 import os
 
 # ---------- CONFIG ----------
-API_KEY = "c0cf4c51f1424ef483b76cbf83592864"  # <-- Your CurrencyFreaks API key
+API_KEY = "add-your-api-key-here"  # <-- Your CurrencyFreaks API key
 BASE_URL = "https://api.currencyfreaks.com/v2.0"
 # ----------------------------
 
